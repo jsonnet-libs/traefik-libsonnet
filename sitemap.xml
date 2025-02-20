@@ -2,377 +2,214 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://jsonnet-libs.github.io/traefik-libsonnet/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.0/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.0/traefik/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/traefik/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.0/traefik/v1alpha1/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/traefik/v1alpha1/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.0/traefik/v1alpha1/ingressRoute/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/traefik/v1alpha1/ingressRoute/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.0/traefik/v1alpha1/ingressRouteTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/traefik/v1alpha1/ingressRouteTCP/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.0/traefik/v1alpha1/ingressRouteUDP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/traefik/v1alpha1/ingressRouteUDP/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.0/traefik/v1alpha1/middleware/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/traefik/v1alpha1/middleware/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.0/traefik/v1alpha1/middlewareTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/traefik/v1alpha1/middlewareTCP/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.0/traefik/v1alpha1/serversTransport/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/traefik/v1alpha1/serversTransport/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.0/traefik/v1alpha1/tlsOption/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/traefik/v1alpha1/serversTransportTCP/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.0/traefik/v1alpha1/tlsStore/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/traefik/v1alpha1/tlsOption/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.0/traefik/v1alpha1/traefikService/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/traefik/v1alpha1/tlsStore/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.6/traefik/v1alpha1/traefikService/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/traefik/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/traefik/v1alpha1/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/traefik/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/traefik/v1alpha1/ingressRoute/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/traefik/v1alpha1/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/traefik/v1alpha1/ingressRouteTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/traefik/v1alpha1/ingressRoute/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/traefik/v1alpha1/ingressRouteUDP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/traefik/v1alpha1/ingressRouteTCP/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/traefik/v1alpha1/middleware/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/traefik/v1alpha1/ingressRouteUDP/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/traefik/v1alpha1/middlewareTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/traefik/v1alpha1/middleware/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/traefik/v1alpha1/serversTransport/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/traefik/v1alpha1/middlewareTCP/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/traefik/v1alpha1/serversTransportTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/traefik/v1alpha1/serversTransport/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/traefik/v1alpha1/tlsOption/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/traefik/v1alpha1/serversTransportTCP/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/traefik/v1alpha1/tlsStore/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/traefik/v1alpha1/tlsOption/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.4/traefik/v1alpha1/traefikService/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/traefik/v1alpha1/tlsStore/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.11.2/traefik/v1alpha1/traefikService/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/traefik/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/traefik/v1alpha1/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/traefik/v1alpha1/ingressRoute/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/v1alpha1/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/traefik/v1alpha1/ingressRouteTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/v1alpha1/accessControlPolicy/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/traefik/v1alpha1/ingressRouteUDP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/v1alpha1/aiService/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/traefik/v1alpha1/middleware/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/v1alpha1/api/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/traefik/v1alpha1/middlewareTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/v1alpha1/apiAccess/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/traefik/v1alpha1/serversTransport/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/v1alpha1/apiBundle/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/traefik/v1alpha1/serversTransportTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/v1alpha1/apiCatalogItem/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/traefik/v1alpha1/tlsOption/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/v1alpha1/apiPlan/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/traefik/v1alpha1/tlsStore/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/v1alpha1/apiPortal/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.10.5/traefik/v1alpha1/traefikService/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/v1alpha1/apiRateLimit/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.8.0/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/v1alpha1/apiVersion/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.8.0/traefik/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/hub/v1alpha1/managedSubscription/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.8.0/traefik/v1alpha1/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/traefik/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.8.0/traefik/v1alpha1/ingressRoute/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/traefik/v1alpha1/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.8.0/traefik/v1alpha1/ingressRouteTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/traefik/v1alpha1/ingressRoute/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.8.0/traefik/v1alpha1/ingressRouteUDP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/traefik/v1alpha1/ingressRouteTCP/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.8.0/traefik/v1alpha1/middleware/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/traefik/v1alpha1/ingressRouteUDP/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.8.0/traefik/v1alpha1/middlewareTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/traefik/v1alpha1/middleware/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.8.0/traefik/v1alpha1/serversTransport/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/traefik/v1alpha1/middlewareTCP/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.8.0/traefik/v1alpha1/tlsOption/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/traefik/v1alpha1/serversTransport/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.8.0/traefik/v1alpha1/tlsStore/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/traefik/v1alpha1/serversTransportTCP/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.8.0/traefik/v1alpha1/traefikService/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/traefik/v1alpha1/tlsOption/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.10/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/traefik/v1alpha1/tlsStore/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
     <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.10/traefik/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.10/traefik/v1alpha1/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.10/traefik/v1alpha1/ingressRoute/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.10/traefik/v1alpha1/ingressRouteTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.10/traefik/v1alpha1/ingressRouteUDP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.10/traefik/v1alpha1/middleware/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.10/traefik/v1alpha1/middlewareTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.10/traefik/v1alpha1/serversTransport/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.10/traefik/v1alpha1/tlsOption/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.10/traefik/v1alpha1/tlsStore/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.10/traefik/v1alpha1/traefikService/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.8/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.8/traefik/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.8/traefik/v1alpha1/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.8/traefik/v1alpha1/ingressRoute/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.8/traefik/v1alpha1/ingressRouteTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.8/traefik/v1alpha1/ingressRouteUDP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.8/traefik/v1alpha1/middleware/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.8/traefik/v1alpha1/middlewareTCP/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.8/traefik/v1alpha1/serversTransport/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.8/traefik/v1alpha1/tlsOption/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.8/traefik/v1alpha1/tlsStore/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/2.9.8/traefik/v1alpha1/traefikService/</loc>
-         <lastmod>2024-03-05</lastmod>
-         <changefreq>daily</changefreq>
+         <loc>https://jsonnet-libs.github.io/traefik-libsonnet/3.3.3/traefik/v1alpha1/traefikService/</loc>
+         <lastmod>2025-02-20</lastmod>
     </url>
 </urlset>
