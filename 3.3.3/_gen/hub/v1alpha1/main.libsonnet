@@ -1,0 +1,15 @@
+{
+  local d = (import 'doc-util/main.libsonnet'),
+  '#':: d.pkg(name='v1alpha1', url='', help=''),
+  accessControlPolicy: (import 'accessControlPolicy.libsonnet'),
+  aiService: (import 'aiService.libsonnet'),
+  api: (import 'api.libsonnet'),
+  apiAccess: (import 'apiAccess.libsonnet'),
+  apiBundle: (import 'apiBundle.libsonnet'),
+  apiCatalogItem: (import 'apiCatalogItem.libsonnet'),
+  apiPlan: (import 'apiPlan.libsonnet'),
+  apiPortal: (import 'apiPortal.libsonnet'),
+  apiRateLimit: (import 'apiRateLimit.libsonnet'),
+  apiVersion: (import 'apiVersion.libsonnet'),
+  managedSubscription: (import 'managedSubscription.libsonnet'),
+}
